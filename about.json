@@ -2,5 +2,8 @@
   "name": "Category Icons",
   "about_url": "https://github.com/pmusaraj/discourse-category-icons",
   "license_url": "https://github.com/pmusaraj/discourse-category-icons/blob/master/LICENSE",
-  "component": "true"
+  "component": "true",
+  "assets": {
+   "icons-sprite": "/assets/icon_Forums_TechComm_Bright-sense.svg"
+}
 }
